@@ -2,9 +2,6 @@
 
 Repo for Data Science: Technical class project. 
 
-Contains following data sources:
-|         |                  | predicted |        |
-|---------|------------------|-----------|--------|
-|         |                  | retain    | churn  |
-| reality | give offer       | -16.67    | -16.67 |
-|         | don't give offer | 64        | 0      |
+| Filename            | Source                                                                          |
+|---------------------|---------------------------------------------------------------------------------|
+| SpotifyFeatures.csv | https://www.kaggle.com/huanntran100/spotify-song-popularity-prediction/notebook |
